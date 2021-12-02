@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Objects;
 
 public class Main {
-    private final static boolean DEBUG = true;
+    private final static boolean DEBUG = false;
 
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
         int totalDays = Objects.requireNonNull(new File("input").listFiles()).length;
