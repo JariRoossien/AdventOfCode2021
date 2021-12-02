@@ -8,10 +8,6 @@ public class Day01 extends Day {
 
     List<Integer> numbers  = new ArrayList<>();
 
-    public Day01() {
-        setup();
-    }
-
     @Override
     public long solveOne() {
         long answer = 0;
