@@ -24,8 +24,12 @@ public void setup() {
 ```
 
 ## Current Output:
+Last run from a dying laptop.
 
 ```
-Day 1 challenge 1: 1266. solved in 0ms
-Day 1 challenge 2: 1217. solved in 0ms
+Day 1 challenge 1: 1266. solved in 1ms
+Day 1 challenge 2: 1217. solved in 1ms
+
+Day 2 challenge 1: 1762050. solved in 6ms
+Day 2 challenge 2: 1855892637. solved in 5ms
 ```
