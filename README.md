@@ -28,8 +28,11 @@ Last run from a dying laptop.
 
 ```
 Day 1 challenge 1: 1266. solved in 1ms
-Day 1 challenge 2: 1217. solved in 1ms
+Day 1 challenge 2: 1217. solved in 0ms
 
-Day 2 challenge 1: 1762050. solved in 6ms
-Day 2 challenge 2: 1855892637. solved in 5ms
+Day 2 challenge 1: 1762050. solved in 7ms
+Day 2 challenge 2: 1855892637. solved in 3ms
+
+Day 3 challenge 1: 3847100. solved in 1ms
+Day 3 challenge 2: 4105235. solved in 7ms
 ```
