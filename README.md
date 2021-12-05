@@ -25,16 +25,21 @@ public void setup() {
 
 ## Current Output:
 
+Run from slow laptop
+
 ```
-Day 1 challenge 1: 1266. solved in 0ms
+Day 1 challenge 1: 1266. solved in 1ms
 Day 1 challenge 2: 1217. solved in 0ms
 
-Day 2 challenge 1: 1762050. solved in 2ms
-Day 2 challenge 2: 1855892637. solved in 1ms
+Day 2 challenge 1: 1762050. solved in 4ms
+Day 2 challenge 2: 1855892637. solved in 3ms
 
 Day 3 challenge 1: 3847100. solved in 0ms
-Day 3 challenge 2: 4105235. solved in 2ms
+Day 3 challenge 2: 4105235. solved in 4ms
 
-Day 4 challenge 1: 63552. solved in 0ms
+Day 4 challenge 1: 63552. solved in 2ms
 Day 4 challenge 2: 9020. solved in 3ms
+
+Day 5 challenge 1: 5632. solved in 14ms
+Day 5 challenge 2: 22213. solved in 11ms
 ```
