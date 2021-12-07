@@ -38,11 +38,14 @@ Day 3 challenge 1: 3847100. solved in 0ms
 Day 3 challenge 2: 4105235. solved in 3ms
 
 Day 4 challenge 1: 63552. solved in 1ms
-Day 4 challenge 2: 9020. solved in 3ms
+Day 4 challenge 2: 9020. solved in 2ms
 
-Day 5 challenge 1: 5632. solved in 13ms
-Day 5 challenge 2: 22213. solved in 9ms
+Day 5 challenge 1: 5632. solved in 10ms
+Day 5 challenge 2: 22213. solved in 7ms
 
-Day 6 challenge 1: 389726. solved in 85ms
+Day 6 challenge 1: 389726. solved in 74ms
 Day 6 challenge 2: 1743335992042. solved in 2ms
+
+Day 7 challenge 1: 336040. solved in 76ms
+Day 7 challenge 2: 94813675. solved in 485ms
 ```
