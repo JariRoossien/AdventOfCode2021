@@ -37,27 +37,30 @@ Day 2 challenge 2: 1855892637. solved in 1ms
 Day 3 challenge 1: 3847100. solved in 0ms
 Day 3 challenge 2: 4105235. solved in 2ms
 
-Day 4 challenge 1: 63552. solved in 1ms
+Day 4 challenge 1: 63552. solved in 0ms
 Day 4 challenge 2: 9020. solved in 2ms
 
-Day 5 challenge 1: 5632. solved in 8ms
-Day 5 challenge 2: 22213. solved in 3ms
+Day 5 challenge 1: 5632. solved in 7ms
+Day 5 challenge 2: 22213. solved in 2ms
 
-Day 6 challenge 1: 389726. solved in 46ms
-Day 6 challenge 2: 1743335992042. solved in 2ms
+Day 6 challenge 1: 389726. solved in 44ms
+Day 6 challenge 2: 1743335992042. solved in 3ms
 
-Day 7 challenge 1: 336040. solved in 48ms
-Day 7 challenge 2: 94813675. solved in 389ms
+Day 7 challenge 1: 336040. solved in 47ms
+Day 7 challenge 2: 94813675. solved in 376ms
 
 Day 8 challenge 1: 543. solved in 1ms
 Day 8 challenge 2: 994266. solved in 0ms
 
-Day 9 challenge 1: 480. solved in 2ms
-Day 9 challenge 2: 1045660. solved in 13ms
+Day 9 challenge 1: 480. solved in 1ms
+Day 9 challenge 2: 1045660. solved in 11ms
 
 Day 10 challenge 1: 390993. solved in 6ms
 Day 10 challenge 2: 2391385187. solved in 1ms
 
 Day 11 challenge 1: 1732. solved in 1ms
-Day 11 challenge 2: 290. solved in 3ms
+Day 11 challenge 2: 290. solved in 1ms
+
+Day 12 challenge 1: 4573. solved in 10ms
+Day 12 challenge 2: 117509. solved in 367ms
 ```
