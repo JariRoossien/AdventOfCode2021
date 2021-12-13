@@ -27,8 +27,8 @@ public class Day13 extends Day {
         setup();
         for (Instruction a : instructionList) {
             paper.fold(a.horizontal, a.row);
-            printPaper(paper);
-            System.out.println();
+            if (paper.length == 6 && paper.width == 40)
+                printPaper(paper);
         }
         printPaper(paper);
         return 0;
@@ -68,7 +68,7 @@ public class Day13 extends Day {
     private void printPaper(Paper p) {
         for (int y = 0; y < p.length; y++) {
             for (int x = 0; x < p.width; x++) {
-                System.out.print((p.grid[y][x]) ? "#" :  " ");
+                System.out.print((p.grid[y][x]) ? "█" :  " ");
             }
             System.out.println();
         }
