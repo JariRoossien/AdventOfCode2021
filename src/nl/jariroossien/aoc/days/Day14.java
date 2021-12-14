@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class Day14 extends Day {
 
     HashMap<Pair, Long> pairCount = new HashMap<>();
-
+    String originalLine;
     @Override
     public long solveOne() {
         return calculateDifference(10);
@@ -38,7 +38,7 @@ public class Day14 extends Day {
         });
         count.forEach((entry, value) -> {
             count.put(entry, value / 2);
-            if (entry == 'S' || entry == 'V') {
+            if (entry == originalLine.charAt(0) || entry == originalLine.charAt(originalLine.length() - 1)) {
                 count.merge(entry, 1L, Long::sum);
             }
         });
@@ -49,15 +49,15 @@ public class Day14 extends Day {
     @Override
     public void setup() {
         super.setup();
-        String init = input.get(0);
+        originalLine = input.get(0);
 
         for (int i = 2; i < input.size(); i++) {
             String[] cut = input.get(i).split(" -> ");
             Pair temp = new Pair(cut[0], cut[1]);
             Pair.addPair(temp);
         }
-        for (int i = 0; i < init.length() - 1; i++) {
-            Pair temp = Pair.getNewPair(init.substring(i, i+2));
+        for (int i = 0; i < originalLine.length() - 1; i++) {
+            Pair temp = Pair.getNewPair(originalLine.substring(i, i+2));
             pairCount.merge(temp, 1L, Long::sum);
         }
     }
